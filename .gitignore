@@ -81,15 +81,15 @@ out/
 *.backup
 
 # Large visualization files (too big for GitHub)
-analysis_plots/
-quick_results/
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.bmp
-*.tiff
-*.svg
+# analysis_plots/     # Commented out - we want to include charts
+# quick_results/      # Commented out - we want to include results
+# *.png              # Commented out - we want to include PNG files
+# *.jpg              # Commented out - we want to include JPG files
+# *.jpeg             # Commented out - we want to include JPEG files
+# *.gif              # Commented out - we want to include GIF files
+# *.bmp              # Commented out - we want to include BMP files
+# *.tiff             # Commented out - we want to include TIFF files
+# *.svg              # Commented out - we want to include SVG files
 
 # Large binary files
 *.tar.gz

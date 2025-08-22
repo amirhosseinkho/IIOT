@@ -1,0 +1,8 @@
+,TotalCost,TotalCost,TotalCost,TotalCost,Makespan,Makespan,Makespan,Makespan,DeadlineHitRate,DeadlineHitRate,DeadlineHitRate,DeadlineHitRate,ExecutionTime,ExecutionTime,ExecutionTime,ExecutionTime
+,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max
+Algorithm,,,,,,,,,,,,,,,,
+Enhanced EPO-CEIS,36.0984,17.0642,21.0,69.13,300.2212,109.3615,137.17,468.44,0.859,0.1137,0.654,1.014,1251.1088,213.7836,842.0,1571.51
+First-Fit,72.6452,25.8678,42.64,118.33,364.0028,86.9841,218.21,464.11,0.555,0.0504,0.489,0.646,206.9832,85.1049,20.57,348.75
+Genetic Algorithm,49.9376,19.5635,24.51,79.22,428.6836,137.2343,190.32,651.04,0.7406,0.0891,0.586,0.858,1653.4852,244.5945,1180.96,2052.12
+Min-Min,54.79,18.0701,28.62,82.1,436.5688,181.2823,180.88,754.88,0.6387,0.0595,0.511,0.695,331.3248,129.1103,130.24,597.15
+Particle Swarm,53.202,12.6833,37.65,74.64,471.4488,190.3008,212.58,788.06,0.7103,0.1029,0.53,0.864,1324.5376,302.6774,958.72,1813.4

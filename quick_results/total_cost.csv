@@ -1,0 +1,126 @@
+workload,algorithm,value
+40,Enhanced EPO-CEIS,22.66
+32,Enhanced EPO-CEIS,21.87
+32,Enhanced EPO-CEIS,22.84
+40,Enhanced EPO-CEIS,21.0
+36,Enhanced EPO-CEIS,22.94
+56,Genetic Algorithm,25.19
+47,Genetic Algorithm,25.22
+55,Genetic Algorithm,25.32
+57,Genetic Algorithm,26.9
+49,Genetic Algorithm,24.51
+36,Particle Swarm,39.4
+35,Particle Swarm,38.72
+39,Particle Swarm,37.65
+34,Particle Swarm,40.48
+37,Particle Swarm,41.27
+44,Min-Min,30.81
+42,Min-Min,31.26
+44,Min-Min,28.62
+50,Min-Min,29.73
+46,Min-Min,28.73
+43,First-Fit,44.26
+52,First-Fit,43.16
+44,First-Fit,45.72
+47,First-Fit,43.06
+52,First-Fit,42.64
+119,Enhanced EPO-CEIS,24.33
+111,Enhanced EPO-CEIS,24.13
+114,Enhanced EPO-CEIS,23.22
+116,Enhanced EPO-CEIS,23.63
+116,Enhanced EPO-CEIS,24.88
+95,Genetic Algorithm,49.16
+95,Genetic Algorithm,46.06
+103,Genetic Algorithm,48.97
+98,Genetic Algorithm,49.78
+96,Genetic Algorithm,48.52
+75,Particle Swarm,39.84
+75,Particle Swarm,39.15
+84,Particle Swarm,41.69
+79,Particle Swarm,42.26
+75,Particle Swarm,42.34
+59,Min-Min,65.18
+57,Min-Min,68.29
+60,Min-Min,67.41
+56,Min-Min,68.32
+63,Min-Min,65.93
+85,First-Fit,71.45
+89,First-Fit,73.06
+90,First-Fit,72.02
+90,First-Fit,72.41
+93,First-Fit,71.04
+141,Enhanced EPO-CEIS,33.59
+146,Enhanced EPO-CEIS,35.41
+142,Enhanced EPO-CEIS,33.34
+146,Enhanced EPO-CEIS,31.74
+144,Enhanced EPO-CEIS,32.99
+169,Genetic Algorithm,78.21
+167,Genetic Algorithm,79.07
+173,Genetic Algorithm,79.22
+175,Genetic Algorithm,77.6
+168,Genetic Algorithm,78.74
+130,Particle Swarm,54.04
+133,Particle Swarm,53.02
+130,Particle Swarm,52.18
+136,Particle Swarm,53.85
+138,Particle Swarm,51.56
+123,Min-Min,52.51
+122,Min-Min,52.89
+127,Min-Min,55.55
+117,Min-Min,52.14
+126,Min-Min,52.05
+190,First-Fit,77.49
+185,First-Fit,80.03
+184,First-Fit,80.96
+186,First-Fit,77.5
+189,First-Fit,77.84
+141,Enhanced EPO-CEIS,69.13
+135,Enhanced EPO-CEIS,67.84
+138,Enhanced EPO-CEIS,66.87
+136,Enhanced EPO-CEIS,68.97
+135,Enhanced EPO-CEIS,68.52
+104,Genetic Algorithm,60.19
+101,Genetic Algorithm,63.8
+107,Genetic Algorithm,63.41
+107,Genetic Algorithm,63.78
+103,Genetic Algorithm,63.0
+96,Particle Swarm,57.78
+96,Particle Swarm,60.37
+93,Particle Swarm,59.67
+97,Particle Swarm,60.16
+89,Particle Swarm,59.84
+135,Min-Min,79.39
+138,Min-Min,82.1
+137,Min-Min,79.14
+134,Min-Min,80.62
+130,Min-Min,81.08
+140,First-Fit,116.94
+140,First-Fit,118.33
+147,First-Fit,115.59
+148,First-Fit,116.66
+146,First-Fit,114.68
+93,Enhanced EPO-CEIS,34.05
+88,Enhanced EPO-CEIS,30.36
+98,Enhanced EPO-CEIS,33.55
+92,Enhanced EPO-CEIS,34.16
+90,Enhanced EPO-CEIS,30.44
+79,Genetic Algorithm,35.25
+72,Genetic Algorithm,34.64
+71,Genetic Algorithm,32.97
+78,Genetic Algorithm,33.35
+76,Genetic Algorithm,35.58
+123,Particle Swarm,71.65
+119,Particle Swarm,74.64
+119,Particle Swarm,73.65
+118,Particle Swarm,72.47
+125,Particle Swarm,72.37
+111,Min-Min,41.99
+111,Min-Min,45.53
+114,Min-Min,44.16
+114,Min-Min,42.97
+112,Min-Min,43.35
+126,First-Fit,53.89
+124,First-Fit,52.3
+134,First-Fit,51.1
+124,First-Fit,52.88
+126,First-Fit,51.12
