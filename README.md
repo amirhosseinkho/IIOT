@@ -18,10 +18,10 @@ This project implements multiple scheduling algorithms including Enhanced EPO-CE
 
 The Enhanced EPO-CEIS algorithm demonstrates superior performance:
 
-- **20.8% lower cost** compared to Genetic Algorithm
-- **44.5% lower cost** compared to First-Fit heuristic
-- **90.55% deadline hit rate** (36% improvement over baselines)
-- **Consistent performance** across varying workload sizes
+- **27.8% lower cost** compared to Genetic Algorithm
+- **50.3% lower cost** compared to First-Fit heuristic
+- **85.9% deadline hit rate** (54.9% improvement over First-Fit)
+- **Consistent performance** across varying workload sizes and scenarios
 
 ## Quick Start
 
