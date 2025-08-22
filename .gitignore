@@ -74,6 +74,7 @@ desktop.ini
 # Project specific - temporary and generated files
 test_results/
 evaluation_results/
+out/
 *.tmp
 *.temp
 *.bak
@@ -95,6 +96,16 @@ quick_results/
 *.zip
 *.rar
 *.7z
+
+# Library files and dependencies
+libs/
+*.jar
+*.war
+*.ear
+*.aar
+*.so
+*.dll
+*.dylib
 
 # Log files
 *.log
