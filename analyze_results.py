@@ -18,7 +18,7 @@ plt.style.use('seaborn-v0_8')
 sns.set_palette("husl")
 
 class IIoTSchedulerAnalyzer:
-    def __init__(self, results_dir="quick_results"):
+    def __init__(self, results_dir="evaluation_results"):
         self.results_dir = Path(results_dir)
         self.results = {}
         self.load_data()

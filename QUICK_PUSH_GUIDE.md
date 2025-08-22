@@ -27,7 +27,7 @@ git push -u origin main
 ✅ **کدها**: `src/` (Java), `analyze_results.py` (Python)
 ✅ **مستندات**: `README.md`, `PROJECT_REPORT.md`, `LICENSE`
 ✅ **نمودارها**: `analysis_plots/` (8 نمودار با کیفیت بالا)
-✅ **نتایج**: `quick_results/` (داده‌های CSV)
+✅ **نتایج**: `evaluation_results/` (داده‌های CSV)
 ✅ **تنظیمات**: `.gitignore`, `requirements.txt`
 
 ## فایل‌هایی که آپلود نمی‌شوند:

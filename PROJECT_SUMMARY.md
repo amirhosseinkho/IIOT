@@ -112,9 +112,9 @@
 - **CostCalculator**: محاسبه هزینه‌های مختلف
 - **DelayCalculator**: محاسبه تأخیرات انتقال
 
-## 📊 Evaluation Results
+## 📊 Comprehensive Evaluation Results
 
-### Test Scenarios
+### Comprehensive Evaluation Scenarios
 - **Basic Scenario**: تست پایه
 - **Cloud Expensive**: سناریوی cloud گران
 - **Delay Heavy**: سناریوی تأخیر زیاد
@@ -176,7 +176,7 @@ IIoT-Scheduler/
 │   │   └── MainEvaluation.java
 │   ├── simulation/         # Simulation tools
 │   └── utils/             # Utility classes
-├── data/                  # Test scenarios
+├── data/                  # Evaluation scenarios
 ├── libs/                  # External libraries (CloudSim)
 └── results/              # Evaluation results
 ```

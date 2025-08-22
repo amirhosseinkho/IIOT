@@ -62,10 +62,10 @@ IIoT-Scheduler/
 │   ├── evaluation/         # Evaluation framework
 │   ├── simulation/         # Simulation components
 │   └── utils/              # Utility functions
-├── data/                   # Test scenarios and datasets
-├── quick_results/          # Evaluation results
+├── data/                   # Evaluation scenarios and datasets
+├── evaluation_results/     # Evaluation results
 ├── analysis_plots/         # Generated visualizations
-└── test/                   # Test suites
+└── test/                   # Evaluation suites
 ```
 
 ## Algorithms

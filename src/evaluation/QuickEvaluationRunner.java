@@ -13,7 +13,7 @@ import java.io.*;
  */
 public class QuickEvaluationRunner {
     
-    private static final String RESULTS_DIR = "quick_results/";
+    private static final String RESULTS_DIR = "evaluation_results/";
     private static final int QUICK_RUNS = 5;
     private static final int[] WORKLOAD_SIZES = {50, 100}; // کمتر برای تست سریع
     

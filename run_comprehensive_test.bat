@@ -59,7 +59,7 @@ echo - ✅ Results export to CSV
 echo - ✅ Python analysis and visualization
 echo.
 echo 📁 Results saved to:
-echo   - quick_results/ (CSV files)
+echo   - evaluation_results/ (CSV files)
 echo   - analysis_plots/ (Visualizations)
 echo.
 pause

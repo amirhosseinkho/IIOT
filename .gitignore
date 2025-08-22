@@ -82,7 +82,7 @@ out/
 
 # Large visualization files (too big for GitHub)
 # analysis_plots/     # Commented out - we want to include charts
-# quick_results/      # Commented out - we want to include results
+# evaluation_results/ # Commented out - we want to include results
 # *.png              # Commented out - we want to include PNG files
 # *.jpg              # Commented out - we want to include JPG files
 # *.jpeg             # Commented out - we want to include JPEG files

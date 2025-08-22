@@ -12,7 +12,7 @@ The following files are prepared and ready for upload to GitHub:
 
 ### Generated Results
 - ✅ `analysis_plots/` - All visualization charts (8 PNG files)
-- ✅ `quick_results/` - Evaluation data (4 CSV files)
+- ✅ `evaluation_results/` - Evaluation data (4 CSV files)
 
 ### Source Code
 - ✅ `src/` - Complete Java source code
@@ -60,7 +60,7 @@ All 8 visualization charts are included in the `analysis_plots/` folder:
 - Total project size: ~2-3 MB
 - Images: High resolution (300 DPI) for professional presentation
 - All source code included and documented
-- Comprehensive testing: 125 test runs across 5 scenarios with 5 algorithms
+- Comprehensive evaluation: 125 evaluation runs across 5 scenarios with 5 algorithms
 
 ### What Gets Uploaded
 - ✅ Source code (Java + Python)
@@ -80,9 +80,9 @@ All 8 visualization charts are included in the `analysis_plots/` folder:
 ```
 IIoT-Scheduler/
 ├── 📁 src/                    # Java source code
-├── 📁 data/                   # Test scenarios
+├── 📁 data/                   # Evaluation scenarios
 ├── 📁 analysis_plots/         # Generated charts
-├── 📁 quick_results/          # Evaluation data
+├── 📁 evaluation_results/     # Evaluation data
 ├── 📄 README.md               # Project overview
 ├── 📄 PROJECT_REPORT.md       # Technical report
 ├── 📄 LICENSE                 # MIT License
