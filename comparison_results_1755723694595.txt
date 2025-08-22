@@ -1,0 +1,78 @@
+Comprehensive Algorithm Comparison Results
+========================================
+Generated: Thu Aug 21 00:31:34 IRST 2025
+Workflow: 4 tasks
+Nodes: 3 fog, 2 cloud
+
+Algorithm: EPO-CEIS
+  Total Cost: 0.6890
+  Deadline Hit Rate: 1.0000
+  Makespan: 5.4200
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.4237
+  Cloud Utilization: 0.0000
+  Execution Time: 1755723676951 ms
+
+Algorithm: GA
+  Total Cost: 0.6890
+  Deadline Hit Rate: 1.0000
+  Makespan: 6.8384
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.3358
+  Cloud Utilization: 0.0000
+  Execution Time: 16 ms
+
+Algorithm: HFCO
+  Total Cost: 0.6914
+  Deadline Hit Rate: 1.0000
+  Makespan: 3.3950
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.8486
+  Cloud Utilization: 0.0000
+  Execution Time: 1755723694194 ms
+
+Algorithm: Min-Min
+  Total Cost: 1.1930
+  Deadline Hit Rate: 1.0000
+  Makespan: 1.2500
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.0000
+  Cloud Utilization: 0.7840
+  Execution Time: 8 ms
+
+Algorithm: FirstFit
+  Total Cost: 1890.6890
+  Deadline Hit Rate: 0.7500
+  Makespan: 6.8900
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.3333
+  Cloud Utilization: 0.0000
+  Execution Time: 0 ms
+
+Algorithm: NSGA-II
+  Total Cost: 65170.0255
+  Deadline Hit Rate: 0.0000
+  Makespan: 32.7350
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.0622
+  Cloud Utilization: 0.0087
+  Execution Time: 174 ms
+
+Algorithm: PSO
+  Total Cost: 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.0000
+  Deadline Hit Rate: 1.0000
+  Makespan: 2.7100
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.8475
+  Cloud Utilization: 0.0000
+  Execution Time: 29 ms
+
+Algorithm: EPSO
+  Total Cost: 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.0000
+  Deadline Hit Rate: 1.0000
+  Makespan: 2.7100
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.8475
+  Cloud Utilization: 0.0000
+  Execution Time: 34 ms
+

@@ -1,0 +1,60 @@
+Comprehensive Algorithm Comparison Results
+========================================
+Generated: Sat Aug 16 18:43:09 IRST 2025
+Workflow: 4 tasks
+Nodes: 3 fog, 2 cloud
+
+Algorithm: EPO-CEIS
+  Total Cost: 0.6890
+  Deadline Hit Rate: 1.0000
+  Makespan: 4.5200
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.5081
+  Cloud Utilization: 0.0000
+  Execution Time: 1755357188867 ms
+
+Algorithm: GA
+  Total Cost: 0.6896
+  Deadline Hit Rate: 1.0000
+  Makespan: 11.8210
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.2016
+  Cloud Utilization: 0.0000
+  Execution Time: 15 ms
+
+Algorithm: HFCO
+  Total Cost: 0.6914
+  Deadline Hit Rate: 1.0000
+  Makespan: 3.6443
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.7905
+  Cloud Utilization: 0.0000
+  Execution Time: 1755357189077 ms
+
+Algorithm: Min-Min
+  Total Cost: 1.1930
+  Deadline Hit Rate: 1.0000
+  Makespan: 1.2500
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.0000
+  Cloud Utilization: 0.7840
+  Execution Time: 0 ms
+
+Algorithm: FirstFit
+  Total Cost: 1890.6890
+  Deadline Hit Rate: 0.7500
+  Makespan: 6.8900
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.3333
+  Cloud Utilization: 0.0000
+  Execution Time: 0 ms
+
+Algorithm: NSGA-II
+  Total Cost: 45165.1551
+  Deadline Hit Rate: 0.5000
+  Makespan: 38.4771
+  Energy Consumption: 0.0000
+  Fog Utilization: 0.0253
+  Cloud Utilization: 0.0152
+  Execution Time: 62 ms
+
