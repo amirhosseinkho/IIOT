@@ -103,7 +103,7 @@ If you use this project in your research, please cite:
 ```bibtex
 @software{iiot_scheduler,
   title={IIoT Task Scheduling System},
-  author={Your Name},
+  author={Amirhossein Khoshbakht},
   year={2024},
   url={https://github.com/yourusername/IIoT-Scheduler}
 }
