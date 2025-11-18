@@ -108,15 +108,3 @@ If you use this project in your research, please cite:
   url={https://github.com/yourusername/IIoT-Scheduler}
 }
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Contact
-
-For questions and support, please open an issue on GitHub.
